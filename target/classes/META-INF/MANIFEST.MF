@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: WebServiceKotlin
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: andersonmatte
+Implementation-Vendor-Id: br.com.andersonmatte
+Build-Jdk: 1.8.0_151
+Implementation-URL: http://projects.spring.io/spring-boot/WebServiceKo
+ tlin/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
