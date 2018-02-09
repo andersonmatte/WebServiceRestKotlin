@@ -57,4 +57,4 @@ Acessar o Postman e executar os Métodos de CRUD.
 
 # Delete
 
-![alt text](/imagens/delete.png)
+![alt text](/imagens/Delete.png)
