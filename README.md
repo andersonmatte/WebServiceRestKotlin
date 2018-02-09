@@ -14,7 +14,7 @@ Baixar os fontes do projeto e importar para a IDE Spring Tool Suite, a estrutura
 
 ![alt text](/imagens/EstruturaProjeto.png)
 
-# Configuração do Banco:
+# Configuração do Banco e Start do projeto:
 
 Fazer o download do H2 :
 
