@@ -1,0 +1,19 @@
+--Dropar Tabela
+--DROP TABLE IF EXISTS CLIENTE;
+--Criar Tabela Cliente
+CREATE TABLE CLIENTE(ID INT(10) PRIMARY KEY, LIMITE_CREDITO DECIMAL(18,2) NOT NULL, NOME_CLIENTE VARCHAR(255) NOT NULL, RISCO VARCHAR(1) NOT NULL, TAXA_JUROS INT(10) NOT NULL);
+--Inserir registro na tabela Cliente
+INSERT INTO CLIENTE VALUES(1, 10.28, 'PAULO','A', 0);
+--Inserir registro na tabela Cliente
+INSERT INTO CLIENTE VALUES(2, 500.21, 'FERNANDO', 'B', 10);
+--Recuperar registros na tabela Cliente
+SELECT ID,
+       NOME_CLIENTE,
+	   LIMITE_CREDITO,		
+	   RISCO,
+	   TAXA_JUROS
+  FROM CLIENTE ORDER BY ID;
+--Atualizar registro na tabela Cliente
+--UPDATE CLIENTE SET NOME_CLIENTE='PAULO ANDRE' WHERE ID=1;
+--Apagar registro na tabela Cliente
+--DELETE FROM CLIENTE WHERE ID=2;
