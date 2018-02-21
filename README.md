@@ -39,7 +39,7 @@ Acessar o banco http://localhost:8080/h2/
 
 ![alt text](/imagens/AcessoBancoH2.png)
 
- Após logado no banco de dados criar a tabela cliente via script Cliente.sql.
+ Após logado no banco de dados criar a tabela cliente via script ConsultaBancoH2.sql.
 
 ![alt text](/imagens/LogadoNoBanco.png)
 
